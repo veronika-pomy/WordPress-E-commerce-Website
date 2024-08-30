@@ -44,7 +44,7 @@ This is a demo e-commerce website built with WordPress, featuring a user-friendl
 
 ## Demo
 
-Add video 
+https://github.com/user-attachments/assets/1db93783-ff01-46f0-9a9b-d5e7aa920ba3
 
 ## Theme 
 

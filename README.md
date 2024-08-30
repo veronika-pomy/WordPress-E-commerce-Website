@@ -21,6 +21,9 @@
     <li>
         <a href="#plug-ins-and-deisgn">Plug-Ins and Design</a>
     </li>
+    <li>
+        <a href="#contact">Contact</a>
+    </li>
 </ul>
 
 ## Description
@@ -54,3 +57,9 @@ Add video
 - **Ninja Forms**: Create custom forms for user interaction.
 - **Starter Templates**: Pre-built templates for easy setup.
 - **Variation Swatches for WooCommerce**: Enhance the product selection experience with visual swatches.
+
+## Contact
+
+Feel free to contact me at [pomyateevav@gmail.com](mailto:pomyateevav@gmail.com)
+
+<p align="right">(<a href="#wordpress-e-commerce-website-demo">back to top</a>)</p>

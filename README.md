@@ -19,7 +19,7 @@
         <a href="#theme">Theme</a>
     </li>
     <li>
-        <a href="#plug-ins-and-deisgn">Plug-Ins and Design</a>
+        <a href="#plug-ins-and-design">Plug-Ins and Design</a>
     </li>
     <li>
         <a href="#contact">Contact</a>
